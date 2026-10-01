@@ -1,0 +1,11 @@
+.komponens{
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    border: solid 5px #6f00ff;
+    border-radius: 16px;
+    max-width: 70%;
+    min-width: 50%;
+    margin-top: 64px;
+    margin-bottom: 64px;
+}
