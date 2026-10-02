@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nb\\0928-Ismetles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A65AAB9-EDE5-4581-A31D-96D5CD587285}|0928-Ismetles\\0928-Ismetles.csproj|d:\\nb\\0928-ismetles\\0928-ismetles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A65AAB9-EDE5-4581-A31D-96D5CD587285}|0928-Ismetles\\0928-Ismetles.csproj|solutionrelative:0928-ismetles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nb\\0928-Ismetles\\0928-Ismetles\\Program.cs",
+              "RelativeDocumentMoniker": "0928-Ismetles\\Program.cs",
+              "ToolTip": "D:\\nb\\0928-Ismetles\\0928-Ismetles\\Program.cs*",
+              "RelativeToolTip": "0928-Ismetles\\Program.cs*",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswIIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T09:11:31.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

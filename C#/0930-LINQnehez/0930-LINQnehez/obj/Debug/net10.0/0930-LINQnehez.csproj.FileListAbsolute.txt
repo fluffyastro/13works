@@ -1,0 +1,14 @@
+D:\nb\C#\0930-LINQnehez\0930-LINQnehez\bin\Debug\net10.0\0930-LINQnehez.exe
+D:\nb\C#\0930-LINQnehez\0930-LINQnehez\bin\Debug\net10.0\0930-LINQnehez.deps.json
+D:\nb\C#\0930-LINQnehez\0930-LINQnehez\bin\Debug\net10.0\0930-LINQnehez.runtimeconfig.json
+D:\nb\C#\0930-LINQnehez\0930-LINQnehez\bin\Debug\net10.0\0930-LINQnehez.dll
+D:\nb\C#\0930-LINQnehez\0930-LINQnehez\bin\Debug\net10.0\0930-LINQnehez.pdb
+D:\nb\C#\0930-LINQnehez\0930-LINQnehez\obj\Debug\net10.0\0930-LINQnehez.GeneratedMSBuildEditorConfig.editorconfig
+D:\nb\C#\0930-LINQnehez\0930-LINQnehez\obj\Debug\net10.0\0930-LINQnehez.AssemblyInfoInputs.cache
+D:\nb\C#\0930-LINQnehez\0930-LINQnehez\obj\Debug\net10.0\0930-LINQnehez.AssemblyInfo.cs
+D:\nb\C#\0930-LINQnehez\0930-LINQnehez\obj\Debug\net10.0\0930-LINQnehez.csproj.CoreCompileInputs.cache
+D:\nb\C#\0930-LINQnehez\0930-LINQnehez\obj\Debug\net10.0\0930-LINQnehez.dll
+D:\nb\C#\0930-LINQnehez\0930-LINQnehez\obj\Debug\net10.0\refint\0930-LINQnehez.dll
+D:\nb\C#\0930-LINQnehez\0930-LINQnehez\obj\Debug\net10.0\0930-LINQnehez.pdb
+D:\nb\C#\0930-LINQnehez\0930-LINQnehez\obj\Debug\net10.0\0930-LINQnehez.genruntimeconfig.cache
+D:\nb\C#\0930-LINQnehez\0930-LINQnehez\obj\Debug\net10.0\ref\0930-LINQnehez.dll

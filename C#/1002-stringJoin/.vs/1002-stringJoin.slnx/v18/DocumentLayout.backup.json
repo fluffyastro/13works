@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nb\\C#\\1002-stringJoin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{323F8D88-A7DE-4ED9-A1B9-DC29394931C1}|1002-stringJoin\\1002-stringJoin.csproj|d:\\nb\\c#\\1002-stringjoin\\1002-stringjoin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323F8D88-A7DE-4ED9-A1B9-DC29394931C1}|1002-stringJoin\\1002-stringJoin.csproj|solutionrelative:1002-stringjoin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nb\\C#\\1002-stringJoin\\1002-stringJoin\\Program.cs",
+              "RelativeDocumentMoniker": "1002-stringJoin\\Program.cs",
+              "ToolTip": "D:\\nb\\C#\\1002-stringJoin\\1002-stringJoin\\Program.cs*",
+              "RelativeToolTip": "1002-stringJoin\\Program.cs*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T06:15:38.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

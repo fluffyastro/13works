@@ -1,0 +1,14 @@
+D:\nb\0925-Dolgozat\0925-Dolgozat\bin\Debug\net10.0\0925-Dolgozat.exe
+D:\nb\0925-Dolgozat\0925-Dolgozat\bin\Debug\net10.0\0925-Dolgozat.deps.json
+D:\nb\0925-Dolgozat\0925-Dolgozat\bin\Debug\net10.0\0925-Dolgozat.runtimeconfig.json
+D:\nb\0925-Dolgozat\0925-Dolgozat\bin\Debug\net10.0\0925-Dolgozat.dll
+D:\nb\0925-Dolgozat\0925-Dolgozat\bin\Debug\net10.0\0925-Dolgozat.pdb
+D:\nb\0925-Dolgozat\0925-Dolgozat\obj\Debug\net10.0\0925-Dolgozat.GeneratedMSBuildEditorConfig.editorconfig
+D:\nb\0925-Dolgozat\0925-Dolgozat\obj\Debug\net10.0\0925-Dolgozat.AssemblyInfoInputs.cache
+D:\nb\0925-Dolgozat\0925-Dolgozat\obj\Debug\net10.0\0925-Dolgozat.AssemblyInfo.cs
+D:\nb\0925-Dolgozat\0925-Dolgozat\obj\Debug\net10.0\0925-Dolgozat.csproj.CoreCompileInputs.cache
+D:\nb\0925-Dolgozat\0925-Dolgozat\obj\Debug\net10.0\0925-Dolgozat.dll
+D:\nb\0925-Dolgozat\0925-Dolgozat\obj\Debug\net10.0\refint\0925-Dolgozat.dll
+D:\nb\0925-Dolgozat\0925-Dolgozat\obj\Debug\net10.0\0925-Dolgozat.pdb
+D:\nb\0925-Dolgozat\0925-Dolgozat\obj\Debug\net10.0\0925-Dolgozat.genruntimeconfig.cache
+D:\nb\0925-Dolgozat\0925-Dolgozat\obj\Debug\net10.0\ref\0925-Dolgozat.dll

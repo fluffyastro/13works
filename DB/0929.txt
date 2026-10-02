@@ -1,0 +1,74 @@
+1)
+SELECT * FROM filmek;
+
+2)
+SELECT cim from filmek;
+
+3)
+SELECT cim, rendezo from filmek;
+
+4)
+SELECT * FROM filmek WHERE megjelenesi_ev > 2010;
+
+5)
+SELECT * FROM filmek WHERE ertekeles >= 8.5;
+
+6)
+SELECT * FROM filmek WHERE hossz > 130;
+
+7)
+SELECT * FROM filmek WHERE rendezo = "Christopher Nolan";
+
+8)
+SELECT * FROM filmek WHERE megjelenesi_ev > 2000 AND megjelenesi_ev < 2015;
+
+9)
+SELECT * FROM filmek WHERE mufaj = "Sci-Fi";
+
+10)
+SELECT * FROM filmek WHERE mufaj = "Drama" OR mufaj = "Fantasy";
+
+11)
+SELECT * FROM filmek WHERE ertekeles >= 8.0 AND ertekeles <= 9.0;
+
+12)
+SELECT * FROM filmek WHERE nezok_szama > 1000000;
+
+13)
+SELECT * FROM filmek ORDER BY megjelenesi_ev ASC;
+
+14)
+SELECT * FROM filmek ORDER BY ertekeles ASC;
+
+15)
+SELECT * FROM filmek ORDER BY cim ASC;
+
+16)
+SELECT DISTINCT mufaj FROM filmek;
+
+17)
+SELECT * FROM filmek WHERE cim LIKE "%A%";
+
+18)
+SELECT * FROM filmek WHERE rendezo LIKE "%Nolan%";
+
+19)
+SELECT * FROM filmek WHERE megjelenesi_ev > 2000 AND ertekeles > 8.5;
+
+20)
+SELECT * FROM filmek WHERE hossz > 150 AND ertekeles > 8.0;
+
+21)
+SELECT * FROM filmek WHERE rendezo = "Christopher Nolan" AND mufaj = "Sci-Fi";
+
+22)
+SELECT cim, ertekeles FROM filmek WHERE ertekeles > 8.5;
+
+23)
+SELECT cim, ertekeles megjelenesi_ev, hossz FROM filmek ORDER BY hossz DESC;
+
+24)
+SELECT * FROM filmek WHERE megjelenesi_ev > 1990 AND megjelenesi_ev < 2000 AND ertekeles >= 8.5;
+
+25)
+SELECT * FROM filmek WHERE mufaj = "Sci-Fi" OR mufaj = "Drama" AND nezok_szama > 1000000;
